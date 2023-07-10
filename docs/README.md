@@ -1,5 +1,5 @@
 # G-Earth
-Feature-rich habbo packet logger & manipulator for Windows, Linux and Mac.
+Feature-rich habbo packet logger & manipulator for Windows, Linux and Mac. 
 
 - Requires Java 8
 
